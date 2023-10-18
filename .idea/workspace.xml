@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c2557a8-570e-4e85-97bd-5e347de9ad4e" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/EnglishDictionaryApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryAlerts/DictionaryAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/ArrangeDictionaryByWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/DictionaryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/AdditionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/dictionaries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_add_32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_add_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_arrow_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_brick_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_cancel_30px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_checkmark_40px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_data_transfer_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_delete_bin_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_edit_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_edit_property_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_exit_32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_google_translate_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_google_translate_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_great_britain_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_high_priority_40px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_ok_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_save_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_search_24px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_search_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_speaker_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_term_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/icons/icons8_vietnam_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/person1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/person2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/images/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/AdditionGui.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/DictionaryGui.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/SearcherGui.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/TranslationGui.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="ProjectOOP/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SHOW_RECENT_BRANCHES" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Wv6d7YXslaHnWqDg3p2Vj5tf8C" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Admin/javafx-sdk-21.0.1/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c2557a8-570e-4e85-97bd-5e347de9ad4e" name="Changes" comment="" />
+      <created>1697600790528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697600790528</updated>
+      <workItem from="1697600791549" duration="4023000" />
+      <workItem from="1697607056910" duration="1630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+</project>
