@@ -60,8 +60,17 @@ public class AdditionController implements Initializable {
                 Alert selectionAlert = alerts.alertConfirmation("This word has already existed",
                         "Từ này đã tồn tại.\nBạn hãy thay thế hoặc bổ sung nghĩa vừa nhập cho từ này.");
                 selectionAlert.getButtonTypes().clear();
+
                 ButtonType replaceButton = new ButtonType("Replace(Thay thế)");
                 ButtonType addButton = new ButtonType("Add(Bổ sung)");
+                selectionAlert.getButtonTypes().addAll(replaceButton, addButton, ButtonType.CANCEL);
+
+                Optional<ButtonType> selection = selectionAlert.showAndWait();
+
+                if (selection.get() == replaceButton) {
+                    dictionary.get(indexOfWord).setWordExplain(meaning);
+                    dictionaryManagement.dictionaryExportToFile(dictionary, );
+                }
             }
         }
     }
