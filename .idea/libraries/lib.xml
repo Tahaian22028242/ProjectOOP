@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://D:/Admin/javafx-sdk-21.0.1/lib" />
-      <root url="jar://D:/Admin/freetts.jar!/" />
-      <root url="jar://D:/Admin/json-simple-2.1.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/EnglishDictionaryApp/src/main/lib/javafx-sdk-21.0.1/lib" />
+      <root url="jar://$PROJECT_DIR$/EnglishDictionaryApp/src/main/lib/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EnglishDictionaryApp/src/main/lib/json-simple-2.1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://D:/Admin/javafx-sdk-21.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/EnglishDictionaryApp/src/main/lib/javafx-sdk-21.0.1/lib" recursive="false" />
   </library>
 </component>

@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c2557a8-570e-4e85-97bd-5e347de9ad4e" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/MainApplication/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/DictionaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/SearcherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/TranslationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+    <list default="true" id="3c2557a8-570e-4e85-97bd-5e347de9ad4e" name="Changes" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryAlerts/DictionaryAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryAlerts/DictionaryAlerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/DictionaryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/DictionaryCommandline/DictionaryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/AdditionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Operations/AdditionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/java/DictionaryApplication/Trie/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Utils/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/AdditionGui.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/AdditionGui.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/DictionaryGui.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/DictionaryGui.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/SearcherGui.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/SearcherGui.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/TranslationGui.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishDictionaryApp/src/main/resources/Views/TranslationGui.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Admin/json-simple-2.1.2.jar",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/ProjectOOP/EnglishDictionaryApp/src/main/lib/json-simple-2.1.2.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,7 +94,8 @@
       <workItem from="1697946695077" duration="7138000" />
       <workItem from="1697970326602" duration="4690000" />
       <workItem from="1697984026424" duration="11289000" />
-      <workItem from="1698024254750" duration="8264000" />
+      <workItem from="1698024254750" duration="8328000" />
+      <workItem from="1698032666109" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -121,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697769206427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes">
+      <option name="closed" value="true" />
+      <created>1698032623430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698032623430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
