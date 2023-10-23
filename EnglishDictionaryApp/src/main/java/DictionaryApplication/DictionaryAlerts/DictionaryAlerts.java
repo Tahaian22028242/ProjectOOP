@@ -25,7 +25,7 @@ public class DictionaryAlerts {
         alert.showAndWait();
     }
 
-    public Alert AlertWarning(String title, String content) {
+    public Alert alertWarning(String title, String content) {
         Alert alert = new Alert(Alert.AlertType.WARNING);
         alert.setTitle(title);
         alert.setHeaderText(null);

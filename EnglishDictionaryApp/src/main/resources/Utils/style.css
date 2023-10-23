@@ -1,5 +1,5 @@
 @font-face {
-    src: url("fonts/Poppins-Regular.ttf"),
+    url("font/Poppins-Regular.ttf");
 }
 .root{
      -fx-background-color: linear-gradient(to top right,#752e65, #44008b);
@@ -258,4 +258,11 @@
 }
 .exit-button:hover{
      -fx-background-color: #b22a00;
+}
+
+.main-searcher {
+    -fx-background-color: #F8DADA;
+    -fx-background-radius: 30;
+    -fx-border-radius: 30;
+    -fx-effect: dropshadow(three-pass-box, #8c7ae6, 15, 0, 0, 2) ;
 }

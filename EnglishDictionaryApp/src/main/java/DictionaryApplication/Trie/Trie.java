@@ -1,4 +1,4 @@
-package main.java.DictionaryApplication.Trie;
+package DictionaryApplication.Trie;
 
 import java.util.*;
 
@@ -16,7 +16,7 @@ public class Trie {
      */
     private Trie(String content) {
         this.content = content;
-        children = new HashMap<Character, Trie>();
+        children = new HashMap<>();
     }
 
     /**

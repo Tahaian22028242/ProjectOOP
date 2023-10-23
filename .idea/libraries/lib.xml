@@ -2,6 +2,8 @@
   <library name="lib">
     <CLASSES>
       <root url="file://D:/Admin/javafx-sdk-21.0.1/lib" />
+      <root url="jar://D:/Admin/freetts.jar!/" />
+      <root url="jar://D:/Admin/json-simple-2.1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

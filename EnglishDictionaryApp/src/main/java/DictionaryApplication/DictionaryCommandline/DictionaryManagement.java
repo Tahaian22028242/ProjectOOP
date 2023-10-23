@@ -2,7 +2,7 @@ package DictionaryApplication.DictionaryCommandline;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import main.java.DictionaryApplication.Trie.Trie;
+import DictionaryApplication.Trie.Trie;
 
 import java.io.*;
 import java.util.List;
@@ -20,13 +20,13 @@ public class DictionaryManagement {
             String englishWord = bufferedReader.readLine();
             englishWord = englishWord.replace("|", "");
             String line;
-            while ((line = bufferedReader.readLine()) != null) {
+            while (bufferedReader.readLine() != null) {
                 Word word = new Word();
                 word.setWordTarget(englishWord.trim());
-                String meaning = line + '\n';
-                while ((line = bufferedReader.readLine()) != null) {
+                line = bufferedReader.readLine();
+                while (line != null) {
                     if (!line.startsWith("|")) {
-                        meaning += line + '\n';
+                        line = line.concat("\n");
                     } else {
                         englishWord = line.replace("|", "");
                         break;
@@ -63,7 +63,7 @@ public class DictionaryManagement {
     /**
      * Look up words by commands.
      */
-    public ObservableList<String> dictionaryLookUp(Dictionary dictionary, String key) {
+    public ObservableList<String> dictionaryLookUp(String key) {
         ObservableList<String> list = FXCollections.observableArrayList();
         try {
             List<String> results = trie.autoComplete(key);
@@ -80,7 +80,7 @@ public class DictionaryManagement {
     }
 
     /**
-     * Searching tool.
+     * Algorithm of searching tool in the dictionary.
      */
     public int dictionarySearcher(Dictionary dictionary, String keyWordToShowResults) {
         try {
